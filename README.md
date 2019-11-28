@@ -1,2 +1,2 @@
 # Crawley
-A web crawler written in C#.
+A minimal web crawler written in C#.
